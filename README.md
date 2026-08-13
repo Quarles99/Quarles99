@@ -14,7 +14,7 @@
 
 ## 🎧 [discord-music-bot](https://github.com/Quarles99/discord-music-bot)
 
-Self-hosted Discord music bot on `discord.py` + `wavelink`, riding a Lavalink audio node. The fun part: a **custom Java DSP plugin** (two-stage loudness leveler + limiter) I wrote from scratch to even out volume across mismatched tracks. Two Docker containers, zero drama.
+Self-hosted Discord music bot on `discord.py` + `wavelink`, riding a Lavalink audio node. Made a **custom Java DSP plugin** (two-stage loudness leveler + limiter) from scratch to even out volume across mismatched tracks.
 
 <br>
 
