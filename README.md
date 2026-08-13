@@ -21,16 +21,7 @@ Self-hosted Discord music bot on `discord.py` + `wavelink`, riding a Lavalink au
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quarles99&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Quarles99's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quarles99&layout=compact&theme=radical&hide_border=true" width="48%" alt="Quarles99's top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Quarles99&theme=radical&hide_border=true" alt="Quarles99's GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Quarles99&theme=radical&no-frame=true&column=7&margin-w=8" alt="Quarles99's trophies" />
+  <img src="https://raw.githubusercontent.com/Quarles99/Quarles99/main/github-metrics.svg" alt="Quarles99's GitHub metrics" />
 </div>
 
 <br>
