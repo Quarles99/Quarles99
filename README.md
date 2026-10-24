@@ -61,6 +61,18 @@ A self-hosted Discord music bot on `discord.py` + `wavelink` + Lavalink. It incl
 
 <br>
 
+## ☕ Support
+
+<div align="center">
+
+If you enjoy my mods or bots, you can leave a tip on Ko-fi.
+
+<a href="https://ko-fi.com/quarles"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
+
+</div>
+
+<br>
+
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Quarles99&color=c084fc&style=flat-square&label=profile+views)
