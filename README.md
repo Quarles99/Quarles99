@@ -18,7 +18,7 @@ A Discord bot autobattler with persistent rosters. You build a roster of fantasy
 
 ## 🎮 [Quasimorph-Coop](https://github.com/Quarles99/Quasimorph-Coop)
 
-A C# mod that adds a second fully player-controlled merc to Quasimorph missions, with turns played either hotseat or online over Steam with a friend. The game assumes exactly one player, so the mod swaps whichever merc is active into the game's single player slot, and both players' games run the same simulation in lockstep and resync themselves if they ever drift. It's at **milestone 3**: combat, inventory, looting, stations and extraction all sync, and between missions the friend equips their own merc on the host's ship. It's an experimental release on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3826739727) and has only been tested on one machine so far.
+A C# mod that adds a second fully player-controlled merc to Quasimorph missions, with turns played either hotseat or online over Steam with a friend. The game assumes exactly one player, so the mod swaps whichever merc is active into the game's single player slot, and both players' games run the same simulation in lockstep and resync themselves if they ever drift. It's at **milestone 4**: combat, inventory, looting, stations and extraction all sync, mercs can treat each other and hand over gear, and between missions the friend equips and picks their own merc on the host's ship and readies up. Recorded sessions replay identically at different frame rates (30 vs 120 fps). It's an experimental release on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3826739727) and has only been tested on one machine so far.
 
 ## 🏰 Gauntlet
 
