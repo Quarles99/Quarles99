@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Will+%F0%9F%91%8B;I+build+games%2C+mods%2C+and+Discord+bots;Live+now%3A+Sigilwar%2C+a+Discord+autobattler+%E2%9A%94%EF%B8%8F;Currently%3A+online+co-op+for+Quasimorph+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Will+%F0%9F%91%8B;I+build+websites+for+Houston+businesses+%F0%9F%8F%A0;I+build+games%2C+mods%2C+and+Discord+bots;Live+now%3A+Sigilwar%2C+a+Discord+autobattler+%E2%9A%94%EF%B8%8F;Currently%3A+online+co-op+for+Quasimorph+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <br>
 
@@ -11,6 +11,21 @@
 </div>
 
 <br>
+
+## 🏠 Websites for local businesses
+
+I build fast, mobile-friendly websites for small businesses in **Houston, TX**: contractors, shops, restaurants and other local services that need a site that shows up on Google and gets the phone ringing.
+
+- **Custom design**, built to look right on phones first
+- **Click-to-call, quote request forms** and clear service areas
+- **Fast and simple to host**, with no page-builder bloat
+- **Local search basics**: titles, descriptions and Google Business Profile links set up properly
+
+**See an example:** [Example Roofing Co.](https://quarles99.github.io/roofing-website-example/), a sample site for a fictional Houston roofer · [source](https://github.com/Quarles99/roofing-website-example)
+
+<a href="https://quarles99.github.io/roofing-website-example/"><img src="assets/roofing-example.png" alt="Screenshot of the Example Roofing Co. sample website" width="640" /></a>
+
+<!-- TODO: add a contact line here, e.g. **Want a site for your business?** Email you@example.com -->
 
 ## ⚔️ Sigilwar
 
