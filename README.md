@@ -25,7 +25,7 @@ I build fast, mobile-friendly websites for small businesses in **Houston, TX**: 
 
 <a href="https://quarles99.github.io/roofing-website-example/"><img src="assets/roofing-example.png" alt="Screenshot of the Example Roofing Co. sample website" width="640" /></a>
 
-<!-- TODO: add a contact line here, e.g. **Want a site for your business?** Email you@example.com -->
+**Want a site for your business?** Email me at the address in my profile sidebar.
 
 ## ⚔️ Sigilwar
 
