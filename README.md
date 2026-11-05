@@ -47,6 +47,10 @@ A Total War: WARHAMMER III mod that gives both sides of a battle to a smarter AI
 
 A grimdark base-building survival prototype in Godot 4.7. Citizens pick jobs through Gale-Shapley matching, and there are real production chains, skills and happiness, a day/night cycle, and night-time orc raids.
 
+## 🧩 [wowam](https://github.com/Quarles99/wowam)
+
+A dependency-free World of Warcraft addon manager built on the official CurseForge API, made for **WoW: Forever** (it also works with Retail and Classic). It has a CLI and a Tkinter GUI, a first-run setup wizard, and runs on Windows, Linux and macOS. It installs addons with their dependencies, checks for and applies updates (on a schedule if you want), and can pull from GitHub releases or a zip you downloaded yourself for addons whose authors block third-party downloads. Every update is staged first and backed up, so a failed update rolls back. It's at **v1.1.0**, with a one-click `wowam.exe` on the [latest release](https://github.com/Quarles99/wowam/releases/latest) and tests that run against a local mock of the API.
+
 ## 🎧 [Bard_Bot](https://github.com/Quarles99/Bard_Bot) (archived)
 
 A self-hosted Discord music bot on `discord.py` + `wavelink` + Lavalink. It includes a **custom Java DSP plugin** (a two-stage loudness leveler and limiter) that evens out volume across tracks mastered at different levels. It's finished and was decommissioned in August 2026. The [postmortem](https://github.com/Quarles99/Bard_Bot/blob/main/POSTMORTEM.md) explains why.
