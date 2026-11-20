@@ -39,10 +39,6 @@ A C# mod that adds a second fully player-controlled merc to Quasimorph missions,
 
 A cooperative tactical dungeon crawler built as a Discord Activity. Up to four players fight 16×16 turn-based battles, then extract or go down together. There's a seeded Daily run, and the game has its own characters, gear, talents and scoreboards. It's **in development**, and the source is private.
 
-## 🗡️ [wh3-ai-spectator](https://github.com/Quarles99/wh3-ai-spectator)
-
-A Total War: WARHAMMER III mod that gives both sides of a battle to a smarter AI so you can spectate. It's designed to be deterministic so multiplayer battles don't desync. **Early scaffold:** the pure-Lua helper libraries are unit tested outside the game, and it hasn't run in game yet.
-
 ## 🛖 [Outpost Survival](https://github.com/Quarles99/outpost_survival)
 
 A grimdark base-building survival prototype in Godot 4.7. Citizens pick jobs through Gale-Shapley matching, and there are real production chains, skills and happiness, a day/night cycle, and night-time orc raids.
